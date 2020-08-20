@@ -765,12 +765,34 @@
 },
 {
 	"_id": {
+		"$oid": "5f5915bda4b97a9fdfdfbd14"
+	},
+	"state": "up",
+	"name": "lernstore_view_permission",
+	"createdAt": {
+		"$date": "2020-08-20T20:55:43.277Z"
+	},
+	"__v": 0
+},
+{
+	"_id": {
 		"$oid": "5f439d30d25e2f22c81c0b08"
 	},
 	"state": "up",
 	"name": "setStudentListSettingsInSchoolsToFalse",
 	"createdAt": {
 		"$date": "2020-08-24T10:57:52.663Z"
+	},
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5f59163f5374b8a0095ebe3d"
+	},
+	"state": "up",
+	"name": "lernstore_permission",
+	"createdAt": {
+		"$date": "2020-09-09T17:51:59.062Z"
 	},
 	"__v": 0
 }]
